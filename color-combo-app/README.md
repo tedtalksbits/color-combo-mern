@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# An app to view and save my favorite color comboninations on the web
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
